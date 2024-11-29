@@ -23,9 +23,8 @@ ubah(nama), pemgguna meminta program untuk mengubah data yang disimpan. program 
 
 ### Langkah 6
 While true untuk perulangan untuk menu(Tambah Data, Tampilkan Data, Hapus Data, Ubah Data, Keluar) yang ditampilkan sampai pengguna memilih keluar. lalu print=*20, pilih menu:
-[Gambar 1](screenshot/woy6.png)
+![Gambar 1](screenshot/woy6.png)
 
 ### Langkah 7
 if, elif, else. kode ini untuk menangani berbagai aksi berdasarkan input pengguna (pilihan) yang diambil dari menu utama. setelah itu Input dibandingkan dengan nilai "1(tambah())", "2(tampilkan())", "3(hapus(nama))", "4(ubah(nama))", dan "5(break)". Jika tidak ada yang cocok, akan masuk ke blok else. jika pengguna memilih "5" akan ditampilkan "program selesai. terima kasih!". kemudian kembali ke menu. lalu print:
-[Gambar 1](screenshot/woy7.png)
-
+![Gambar 1](screenshot/woy7.png)
