@@ -26,6 +26,6 @@ While true untuk perulangan untuk menu(Tambah Data, Tampilkan Data, Hapus Data, 
 [Gambar 1](screenshot/woy6.png)
 
 ### Langkah 7
-if, elif, else. kode ini untuk menangani berbagai aksi berdasarkan input pengguna (pilihan) yang diambil dari menu utama. Input dibandingkan dengan nilai "1(tambah())", "2(tampilkan())", "3(hapus(nama))", "4(ubah(nama))", dan "5(break)". Jika tidak ada yang cocok, akan masuk ke blok else. jika pengguna memilih "5" akan ditampilkan "program selesai. terima kasih!". kemudian kembali ke menu. lalu print:
+if, elif, else. kode ini untuk menangani berbagai aksi berdasarkan input pengguna (pilihan) yang diambil dari menu utama. setelah itu Input dibandingkan dengan nilai "1(tambah())", "2(tampilkan())", "3(hapus(nama))", "4(ubah(nama))", dan "5(break)". Jika tidak ada yang cocok, akan masuk ke blok else. jika pengguna memilih "5" akan ditampilkan "program selesai. terima kasih!". kemudian kembali ke menu. lalu print:
 [Gambar 1](screenshot/woy7.png)
 
