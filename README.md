@@ -46,3 +46,25 @@ menu:4
 
 menu:5
 ![Gambar 1](screenshot/woy13.png)
+
+## Flowchart
+
+### Langkah 1
+Proses dimulai dengan memulai program:
+![Gambar 1](screenshot/woy13.png)
+
+### Langkah 2
+Program menampilkan menu pilihan kepada pengguna. Menu ini berisi opsi seperti: tambah data, tamppilkan data, mengubah data, menghapus data dan break:
+![Gambar 1](screenshot/woy13.png)
+
+### Langkah 3
+Pengguna memasukkan pilihan berdasarkan menu (1, 2, 3, 4, atau 5):
+![Gambar 1](screenshot/woy13.png)
+
+### Langkah 4
+if input pengguna, sistem akan menjalankan program dengan opsi yang dipilih oleh pengguna:
+[Gambar 1](screenshot/woy13.png)
+
+### Langkah 5
+Menu 1, pengguna memilih menu 1 untuk menambah data:
+[Gambar 1](screenshot/woy13.png)
