@@ -28,3 +28,21 @@ While true untuk perulangan untuk menu(Tambah Data, Tampilkan Data, Hapus Data, 
 ### Langkah 7
 if, elif, else. kode ini untuk menangani berbagai aksi berdasarkan input pengguna (pilihan) yang diambil dari menu utama. setelah itu Input dibandingkan dengan nilai "1(tambah())", "2(tampilkan())", "3(hapus(nama))", "4(ubah(nama))", dan "5(break)". Jika tidak ada yang cocok, akan masuk ke blok else. jika pengguna memilih "5" akan ditampilkan "program selesai. terima kasih!". kemudian kembali ke menu. lalu print:
 ![Gambar 1](screenshot/woy7.png)
+
+### Hasil program
+menu:1
+![Gambar 1](screenshot/woy8.png)
+
+menu:2
+![Gambar 1](screenshot/woy9.png)
+jika tidak ada data mahasiswa
+![Gambar 1](screenshot/woy10.png)
+
+menu:3
+![Gambar 1](screenshot/woy11.png)
+
+menu:4
+![Gambar 1](screenshot/woy12.png)
+
+menu:5
+![Gambar 1](screenshot/woy13.png)
