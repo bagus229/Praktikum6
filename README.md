@@ -82,7 +82,7 @@ Menu 4, Program meminta pengguna memilih data yang akan diubah (nama dan nilai).
 [Gambar 1](screenshot/woy21.png)
 
 ### Langkah 8
-Menu 5, break, pesan "program selesai,terima kasih"
+Menu 5, break, pesan menampilkan "program selesai,terima kasih"
 [Gambar 1](screenshot/woy22.png)
 
 ### Langkah 9
