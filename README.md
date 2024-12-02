@@ -63,34 +63,34 @@ Pengguna memasukkan pilihan berdasarkan menu (1, 2, 3, 4, atau 5):
 
 ### Langkah 4
 if input pengguna, sistem akan menjalankan program dengan opsi yang dipilih oleh pengguna:
-[Gambar 1](screenshot/woy17.png)
+![Gambar 1](screenshot/woy17.png)
 
 ### Langkah 5
 Menu 1, pengguna memilih menu 1 untuk menambah data mahasiswa:
-[Gambar 1](screenshot/woy18.png)
+![Gambar 1](screenshot/woy18.png)
 
 ### Langkah 5
 Menu 2, Program menampilkan semua data yang ada. jika tidak ada pesan "belum ada data mahasiswa":
-[Gambar 1](screenshot/woy19.png)
+![Gambar 1](screenshot/woy19.png)
 
 ### Langkah 6
 Menu 3, Program meminta pengguna memilih data mana yang akan dihapus bedasarkan nama. Data yang dipilih dihapus dari sistem. Pesan bahwa data telah berhasil dihapus ditampilkan:
-[Gambar 1](screenshot/woy20.png)
+![Gambar 1](screenshot/woy20.png)
 
 ### Langkah 7
 Menu 4, Program meminta pengguna memilih data yang akan diubah (nama dan nilai). Data lama diperbarui dengan nilai baru:
-[Gambar 1](screenshot/woy21.png)
+![Gambar 1](screenshot/woy21.png)
 
 ### Langkah 8
 Menu 5, break, pesan menampilkan "program selesai,terima kasih"
-[Gambar 1](screenshot/woy22.png)
+![Gambar 1](screenshot/woy22.png)
 
 ### Langkah 9
 Sistem untuk menyimpan perubahan atau menampilkan hasil yang telah diperbarui.
-[Gambar 1](screenshot/woy23.png)
+![Gambar 1](screenshot/woy23.png)
 
 ### Langkah 10
 Program selesai:
-[Gambar 1](screenshot/woy24.png)
+![Gambar 1](screenshot/woy24.png)
 
-[Gambar 1](screenshot/woy25.png)
+![Gambar 1](screenshot/woy25.png)
